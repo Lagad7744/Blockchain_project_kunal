@@ -374,4 +374,4 @@ This mechanism:
 **Project:** Multi-Signature Consensus Wallet  
 **Technology:** Solidity + Remix IDE
 
-⭐ If you like this project, consider giving it a **star on GitHub**!
+
